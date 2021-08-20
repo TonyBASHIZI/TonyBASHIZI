@@ -2,11 +2,11 @@
   Hello world 👋 I'm Thony 🎧
 </h1>
 <p align='center'>
-  Technology Enthusiast, Full Stack Web Developer. <br />
-  Initiator of <a href="">.NET Club DRC</a>
+  -- <br />
+  Initiator of <a href="">#</a>
 </p>
 <p align='center'>
-   🌱 A wet person does not fear the rain 
+  
 </p>
 <p align='center'>
   <a href="">
