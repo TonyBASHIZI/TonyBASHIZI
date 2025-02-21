@@ -3,7 +3,7 @@
 </h1>
 <p align='center'>
   -- <br />
-  Initiator of <a href="">#</a>
+  Initiator of <a href="www.linkedin.com/in/joseph-bashizi-1b81741b7">#</a>
 </p>
 <p align='center'>
   
